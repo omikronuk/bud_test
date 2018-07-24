@@ -1,0 +1,16 @@
+
+*.[oa]
+*.[oa]~
+*.lock
+vendor/.git
+.metadata
+.settings/
+.project
+.buildpath
+vendor/
+.idea
+.idea/
+*~
+*.DS_Store
+.DS_Store
+package.json
